@@ -1,7 +1,7 @@
 # update all your repos 
 
 
-Ubuntu/Linux
+Linux
 
 ```
 chmod +x ./update.sh
